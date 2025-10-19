@@ -408,7 +408,7 @@ export default function App() {
                   <div className="group relative overflow-hidden rounded-2xl shadow-2xl border border-white/10 hover:border-primary/30 transition-all p-2">
                   <div className="aspect-[3/2] overflow-hidden h-64">
                     <ImageWithFallback
-                      src="/src/assets/before after/a35before.JPG"
+                      src="/src/assets/before_after/a35before.JPG"
                       alt="Mercedes A35 before repair"
                       className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-110"
                     />
@@ -435,7 +435,7 @@ export default function App() {
                 <div className="group relative overflow-hidden rounded-2xl shadow-2xl border border-white/10 hover:border-primary/30 transition-all p-2">
                   <div className="aspect-[3/2] overflow-hidden h-64">
                     <ImageWithFallback
-                      src="/src/assets/before after/audiibefore.JPG"
+                      src="/src/assets/before_after/audiibefore.JPG"
                       alt="Audi before repair"
                       className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-110"
                     />
@@ -462,7 +462,7 @@ export default function App() {
                 <div className="group relative overflow-hidden rounded-2xl shadow-2xl border border-white/10 hover:border-primary/30 transition-all p-2">
                   <div className="aspect-[3/2] overflow-hidden h-64">
                     <ImageWithFallback
-                      src="/src/assets/before after/c300before.JPG"
+                      src="/src/assets/before_after/c300before.JPG"
                       alt="Mercedes C300 before repair"
                       className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-110"
                     />
@@ -489,7 +489,7 @@ export default function App() {
                 <div className="group relative overflow-hidden rounded-2xl shadow-2xl border border-white/10 hover:border-primary/30 transition-all p-2">
                   <div className="aspect-[3/2] overflow-hidden h-64">
                     <ImageWithFallback
-                      src="/src/assets/before after/defenderbefore.JPG"
+                      src="/src/assets/before_after/defenderbefore.JPG"
                       alt="Defender before repair"
                       className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-110"
                     />
@@ -516,7 +516,7 @@ export default function App() {
                 <div className="group relative overflow-hidden rounded-2xl shadow-2xl border border-white/10 hover:border-primary/30 transition-all p-2">
                   <div className="aspect-[3/2] overflow-hidden h-64">
                     <ImageWithFallback
-                      src="/src/assets/before after/jagbefore.JPG"
+                      src="/src/assets/before_after/jagbefore.JPG"
                       alt="Jaguar before repair"
                       className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-110"
                     />
@@ -543,7 +543,7 @@ export default function App() {
                 <div className="group relative overflow-hidden rounded-2xl shadow-2xl border border-white/10 hover:border-primary/30 transition-all p-2">
                   <div className="aspect-[3/2] overflow-hidden h-64">
                     <ImageWithFallback
-                      src="/src/assets/before after/teslabefore.JPG"
+                      src="/src/assets/before_after/teslabefore.JPG"
                       alt="Tesla before repair"
                       className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-110"
                     />
@@ -570,7 +570,7 @@ export default function App() {
                 <div className="group relative overflow-hidden rounded-2xl shadow-2xl border border-white/10 hover:border-primary/30 transition-all p-2">
                   <div className="aspect-[3/2] overflow-hidden h-64">
                     <ImageWithFallback
-                      src="/src/assets/before after/rangebefore.JPG"
+                      src="/src/assets/before_after/rangebefore.JPG"
                       alt="Range Rover before repair"
                       className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-110"
                     />
@@ -597,7 +597,7 @@ export default function App() {
                 <div className="group relative overflow-hidden rounded-2xl shadow-2xl border border-white/10 hover:border-primary/30 transition-all p-2">
                   <div className="aspect-[3/2] overflow-hidden h-64">
                     <ImageWithFallback
-                      src="/src/assets/before after/x5before.JPG"
+                      src="/src/assets/before_after/x5before.JPG"
                       alt="BMW X5 before repair"
                       className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-110"
                     />
@@ -646,7 +646,7 @@ export default function App() {
                 <div className="group relative overflow-hidden rounded-2xl shadow-2xl border border-white/10 hover:border-primary/30 transition-all p-2">
                   <div className="aspect-[3/2] overflow-hidden h-64">
                     <ImageWithFallback
-                      src="/src/assets/before after/a35after.JPG"
+                      src="/src/assets/before_after/a35after.JPG"
                       alt="Mercedes A35 after repair"
                       className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-110"
                     />
@@ -673,7 +673,7 @@ export default function App() {
                 <div className="group relative overflow-hidden rounded-2xl shadow-2xl border border-white/10 hover:border-primary/30 transition-all p-2">
                   <div className="aspect-[3/2] overflow-hidden h-64">
                             <ImageWithFallback
-                      src="/src/assets/before after/audiiafter.JPG"
+                      src="/src/assets/before_after/audiiafter.JPG"
                       alt="Audi after repair"
                       className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-110"
                     />
@@ -700,7 +700,7 @@ export default function App() {
                 <div className="group relative overflow-hidden rounded-2xl shadow-2xl border border-white/10 hover:border-primary/30 transition-all p-2">
                   <div className="aspect-[3/2] overflow-hidden h-64">
                     <ImageWithFallback
-                      src="/src/assets/before after/c300after.JPG"
+                      src="/src/assets/before_after/c300after.JPG"
                       alt="Mercedes C300 after repair"
                       className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-110"
                     />
@@ -727,7 +727,7 @@ export default function App() {
                 <div className="group relative overflow-hidden rounded-2xl shadow-2xl border border-white/10 hover:border-primary/30 transition-all p-2">
                   <div className="aspect-[3/2] overflow-hidden h-64">
                             <ImageWithFallback
-                      src="/src/assets/before after/defenderafter.JPG"
+                      src="/src/assets/before_after/defenderafter.JPG"
                       alt="Defender after repair"
                       className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-110"
                     />
@@ -754,7 +754,7 @@ export default function App() {
                 <div className="group relative overflow-hidden rounded-2xl shadow-2xl border border-white/10 hover:border-primary/30 transition-all p-2">
                   <div className="aspect-[3/2] overflow-hidden h-64">
                     <ImageWithFallback
-                      src="/src/assets/before after/jagafter.JPG"
+                      src="/src/assets/before_after/jagafter.JPG"
                       alt="Jaguar after repair"
                       className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-110"
                     />
@@ -781,7 +781,7 @@ export default function App() {
                 <div className="group relative overflow-hidden rounded-2xl shadow-2xl border border-white/10 hover:border-primary/30 transition-all p-2">
                   <div className="aspect-[3/2] overflow-hidden h-64">
                     <ImageWithFallback
-                      src="/src/assets/before after/teslaafter.JPG"
+                      src="/src/assets/before_after/teslaafter.JPG"
                       alt="Tesla after repair"
                       className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-110"
                     />
@@ -808,7 +808,7 @@ export default function App() {
                 <div className="group relative overflow-hidden rounded-2xl shadow-2xl border border-white/10 hover:border-primary/30 transition-all p-2">
                   <div className="aspect-[3/2] overflow-hidden h-64">
                     <ImageWithFallback
-                      src="/src/assets/before after/rangeafter.JPG"
+                      src="/src/assets/before_after/rangeafter.JPG"
                       alt="Range Rover after repair"
                       className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-110"
                     />
@@ -835,7 +835,7 @@ export default function App() {
                 <div className="group relative overflow-hidden rounded-2xl shadow-2xl border border-white/10 hover:border-primary/30 transition-all p-2">
                   <div className="aspect-[3/2] overflow-hidden h-64">
                     <ImageWithFallback
-                      src="/src/assets/before after/x5after.JPG"
+                      src="/src/assets/before_after/x5after.JPG"
                       alt="BMW X5 after repair"
                       className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-110"
                     />
